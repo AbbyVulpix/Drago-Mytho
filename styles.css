@@ -1,0 +1,49 @@
+body {
+
+    background-color: #4E0707;
+   display:flex;
+justify-content:center;
+align-items:center;
+flex-direction:column;
+}
+
+h1 {
+   color: #A0522D;
+   font-size:50px;
+}
+
+
+p {
+   color: #C49102;
+   font-size:20px;
+}
+
+ul {
+   color: #C49102;
+   font-size:20px;
+}
+
+h2 {
+   color: #A0522D;
+   font-size:40px;
+}
+
+h3 {
+   color: #882D17;
+   font-size:30px;
+}
+
+h4 {
+   color: #E97451;
+   font-size:30px;
+}
+
+h5 {
+   color: #E97451;
+   font-size:25px;
+}
+
+img {
+transition : transform 0.5s ease;
+}
+
